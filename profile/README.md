@@ -1,7 +1,9 @@
 [Youtube 링크](https://www.youtube.com/watch?v=75JcKXWn3EE)
-<img width="1920" height="1080" alt="표지" src="https://github.com/user-attachments/assets/141010ca-7ae3-42b4-acba-e30c4df7640f" />
-<img width="1920" height="1080" alt="기능요약" src="https://github.com/user-attachments/assets/394a4bb3-ffb9-460b-b927-dd1eb621bdf5" />
-<img width="1920" height="1080" alt="기능 1 (1)" src="https://github.com/user-attachments/assets/9f44f367-121d-40f3-b20d-466cd72a4c71" />
-<img width="1920" height="1080" alt="기능 2 (1)" src="https://github.com/user-attachments/assets/05d087a1-b603-42dd-bb34-210a0d9d77af" />
-<img width="1920" height="1080" alt="기능 3 (1)" src="https://github.com/user-attachments/assets/1b3bdb6f-077b-4659-92c7-006d8052f5ac" />
+<img width="1920" height="1080" alt="표지" src="https://github.com/user-attachments/assets/4f440070-7666-4b36-8147-8be4ea448dd3" />
+<img width="1920" height="1080" alt="기능요약" src="https://github.com/user-attachments/assets/727514e8-54b3-456d-9131-1f7e63165d2b" />
+<img width="1920" height="1080" alt="기능 1 (1)" src="https://github.com/user-attachments/assets/6aadfe22-0dcc-430b-a0b4-579311f50a50" />
+<img width="1920" height="1080" alt="기능 2 (1)" src="https://github.com/user-attachments/assets/c507c20e-c75f-4d62-99a0-712f3b804180" />
+<img width="1920" height="1080" alt="기능 3 (1)" src="https://github.com/user-attachments/assets/8e510e7a-62f8-4afa-af25-01e0f5f0ddc2" />
+
 https://github.com/user-attachments/assets/66b40051-b6a1-486d-a19a-22caeb3b4b3d
+
